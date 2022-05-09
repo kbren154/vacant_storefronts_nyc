@@ -9,8 +9,8 @@ I had planned to use pandas to merge the two files but found that an address cou
 --------------
 First I created the code for vacant storefronts by zip code. The dataset includes a field for zip code, a field that was not always populated, and the field postal code which was entirely populated. 
  
-  -vacant_zip_code_2021FINAL.py
-  -vacant_zip_code_2020FINAL.py
+ 	-vacant_zip_code_2021FINAL.py
+  	-vacant_zip_code_2020FINAL.py
   
 There are also Tableau Vizzes for those generated csv files. 
 For 2021: https://public.tableau.com/views/VacantStorefrontsbyZipCode/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
